@@ -2,7 +2,7 @@
   "name": "cognito-login-app",
   "version": "1.0.0",
   "description": "",
-  "main": "src/index.js",
+  "main": "docs/index.js",
   "scripts": {
     "start": "webpack serve --mode development --open",
     "build": "webpack --mode production",
